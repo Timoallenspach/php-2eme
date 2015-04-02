@@ -24,10 +24,10 @@ if ($gagne) {
 <?php
         if ($gagne) {
             echo "<h1>Vous avez gagné</h1>";
-        }else {
+        } else {
 ?>
     <h1>Vous avez perdu</h1>
-    <a href="javascript:histoiry.back()">Réessayer
+    <a href="javascript:history.back()"> Réessayer</a>
 <?php
     }
 ?>
