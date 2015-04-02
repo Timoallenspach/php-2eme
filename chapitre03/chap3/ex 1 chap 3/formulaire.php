@@ -1,8 +1,8 @@
 <?php
 
 	// Exercice 1 chapitre 3
-  // Bastien Nicoud
-  // 28.04.2015 - CPNV Média
+  // Timo Allenspach
+  // CPNV Média
 
 ?>
 <!DOCTYPE html>

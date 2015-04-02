@@ -1,8 +1,8 @@
 <?php
 
 	// Exercice 1 chapitre 3
-  // Bastien Nicoud
-  // 28.04.2015 - CPNV Média
+  // Timo allenspach
+  // CPNV Média
 
   $pv = filter_input(INPUT_POST,'pv',FILTER_SANITIZE_NUMBER_FLOAT);
   $fp = filter_input(INPUT_POST,'fp',FILTER_SANITIZE_NUMBER_FLOAT);
