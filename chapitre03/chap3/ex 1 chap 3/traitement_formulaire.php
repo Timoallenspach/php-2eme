@@ -18,13 +18,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Coucouuuuu</title>
-    <style>
-      * {
-        font-family: Ubuntu;
-        font-size: 14pt;
-      }
-    </style>
+    <title>fomulaire</title>
+    
   </head>
   <body>
     <?php

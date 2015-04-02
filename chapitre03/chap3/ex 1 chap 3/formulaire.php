@@ -10,12 +10,7 @@
   <head>
     <meta charset="utf-8">
     <title>Exercice 1</title>
-    <style>
-      * {
-        font-family: Ubuntu;
-        font-size: 14pt;
-      }
-    </style>
+
   </head>
   <body>
   	<form name="formulaire" method="post" action="traitement_formulaire.php">
